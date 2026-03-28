@@ -1,0 +1,11 @@
+streamlit==1.32.0
+requests==2.32.3
+beautifulsoup4==4.12.3
+pandas==2.2.3
+yfinance==0.2.54
+plotly==5.20.0
+lxml
+html5lib
+gspread==6.0.2
+google-auth==2.29.0
+pdfplumber==0.11.0
