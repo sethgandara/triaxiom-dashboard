@@ -1,0 +1,17 @@
+[server]
+port = 8501
+address = "127.0.0.1"
+baseUrlPath = "/CTA-dashboard"
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#1e2a4a"
+backgroundColor = "#f7f4ee"
+secondaryBackgroundColor = "#ede9e0"
+textColor = "#1e2a4a"
+font = "sans serif"
