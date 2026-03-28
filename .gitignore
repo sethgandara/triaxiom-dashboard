@@ -1,0 +1,20 @@
+# Secrets — never commit
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Database cache
+*.db
+data/pipeline_log.json
+
+# Local only — Matt's actual returns stay in repo but not secrets
+# data/triaxiom_returns.csv is intentionally tracked
+
+# OS
+.DS_Store
+Thumbs.db
